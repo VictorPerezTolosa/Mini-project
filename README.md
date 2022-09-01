@@ -1,2 +1,2 @@
 # Mini-project
-First mini project IRONHACK
+First mini project IRONHACK with Carlos Prieto and Jesús Petit
